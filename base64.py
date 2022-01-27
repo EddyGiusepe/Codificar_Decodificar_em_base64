@@ -1,3 +1,9 @@
+'''
+Data Scientist Jr.: Dr.Eddy Giusepe Chirinos Isidro
+
+Sempre aprendendo!
+'''
+
 import sys
 import pybase64 as b64
 
