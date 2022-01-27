@@ -15,15 +15,7 @@ Seu alfabeto é constituído por **64 caracteres ([A-Z],[a-z],[0-9], “/” e �
 O algoritmo de codificação do **Base64 não é um algoritmo de criptografia**, ele é facilmente decodificado, portanto não deve ser utilizado como método de criptografia segura. Não utilize essa técnica para proteger dados sensíveis, para isso recorra a [métodos de criptografia seguros](https://cryptoid.com.br/valid/tipos-de-criptografia-conheca-os-10-mais-usados-e-como-funciona-cada-um/).
 
 
-Como funciona o algoritmo de codificação Base64?
-Vamos usar a palavra BOLA como exemplo, lembrando que letras maiúsculas e minúsculas fazem diferença:
-
-BOLA
-
-
-
-
-
+Nota: para ver como funciona este algoritmo, [click aqui](https://marquesfernandes.com/self/o-que-e-base64-para-que-serve-e-como-funciona/).
 
 
 
