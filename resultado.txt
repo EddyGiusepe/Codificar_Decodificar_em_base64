@@ -1,0 +1,1 @@
+b'RXN0ZSB0ZXh0byBzZXLDoSBjb2RpZmljYWRvIGVtIGJhc2U2NA=='b'Este texto ser\xc3\xa1 codificado em base64'
