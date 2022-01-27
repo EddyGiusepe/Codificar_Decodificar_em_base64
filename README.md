@@ -7,8 +7,9 @@
 
 Seu alfabeto é constituído por **64 caracteres ([A-Z],[a-z],[0-9], “/” e “+”)**, o que deu  origem ao seu nome. O carácter ``=`` é utilizado como um sufixo especial e a especificação original (RFC 989) definiu que o símbolo ``*`` pode ser utilizado para delimitar dados convertidos, mas não criptografados, dentro de um *stream*.
 
+## O Base64 é seguro? posso usar como método de criptografia?
 
-
+O algoritmo de codificação do **Base64 não é um algoritmo de criptografia**, ele é facilmente decodificado, portanto não deve ser utilizado como método de criptografia segura. Não utilize essa técnica para proteger dados sensíveis, para isso recorra a [métodos de criptografia seguros](https://cryptoid.com.br/valid/tipos-de-criptografia-conheca-os-10-mais-usados-e-como-funciona-cada-um/).
 
 
 
