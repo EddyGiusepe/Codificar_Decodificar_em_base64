@@ -30,4 +30,19 @@ Links de pesquisa:
 * [Vídeo do YouTube: o que é base64? para que serve a base64](https://www.youtube.com/watch?v=JFXrBkdCAeQ)
 
 
+Exemplo, básico, em Python:
+
+* [base64 em Python](https://www.youtube.com/watch?v=HY5sEph1cg8)
+
+
+
+
+Thanks God!
+
+
+
+
+
+
+
 
