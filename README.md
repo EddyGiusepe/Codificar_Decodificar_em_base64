@@ -24,7 +24,7 @@ Seu alfabeto é constituído por **64 caracteres ([A-Z],[a-z],[0-9], “/” e �
 
 Links de pesquisa:
 
-* (fsgsdg)[https://marquesfernandes.com/self/o-que-e-base64-para-que-serve-e-como-funciona/] 
+* [fsgsdg](https://marquesfernandes.com/self/o-que-e-base64-para-que-serve-e-como-funciona/)
 
 
 
